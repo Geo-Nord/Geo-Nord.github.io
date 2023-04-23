@@ -9,5 +9,5 @@ title = "Contact"
 #subtitle = ""
 +++
 
-You have a question or suggestion, you would like to become a sponsor or come
-with your shop; contact us at contact@geonordelements.com
+Do you have a question or a suggestion? Would you like to become a sponsor or
+come with your shop? Contact us at contact@geonordelements.com

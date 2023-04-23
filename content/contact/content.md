@@ -10,4 +10,4 @@ title = "Contact"
 +++
 
 Vous avez une question ou une suggestion ? Vous souhaitez devenir sponsor ou
-venir avec votre boutique ? Contactez-nous sur contact@geonordelements.com
+venir avec votre boutique ? Contactez-nous à contact@geonordelements.com

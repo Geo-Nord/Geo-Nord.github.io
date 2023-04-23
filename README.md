@@ -6,9 +6,9 @@
   you want to see and test the changes locally
 - Clone repository and submodules:
   - (HTTPS) `git clone --recurse-submodules
-    https://github.com/GeoNord/GeoNord.github.io.git`
+    https://github.com/GeoNord/Geo-Nord.github.io.git`
   - (SSH) `git clone --recurse-submodules
-    git@github.com:GeoNord/GeoNord.github.io.git`
+    git@github.com:GeoNord/Geo-Nord.github.io.git`
 
 ## Template Architecture
 
