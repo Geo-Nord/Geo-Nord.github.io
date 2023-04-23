@@ -1,7 +1,6 @@
 +++
 fragment = "nav"
 #disabled = true
-date = "2022-08-09"
 weight = 0
 background = "primary"
 

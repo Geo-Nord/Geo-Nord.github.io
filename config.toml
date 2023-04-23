@@ -9,10 +9,10 @@ DefaultContentLanguage = "fr"
 
 [languages]
   [languages.fr]
-    title = "FR"
+    title = "GPS Maze Adventures - GeoNord"
     weight = 1
   [languages.en]
-    title = "EN"
+    title = "GPS Maze Adventures - GeoNord"
     weight = 2
 
 # Google Analytics tracking
@@ -36,6 +36,7 @@ lastmod = ["lastmod", ":git", "date"]
   name = "GPS Maze Adventures - GeoNord - Association Geocaching Hauts de France"
   description = "GPS Maze Adventures - GeoNord - Association Geocaching Hauts de France"
   DefaultContentLanguage = "fr"
+  customCSS = "css/custom.css"
 
   [params.style]
     #background = "secondary"
@@ -95,34 +96,29 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 40
 
 [[menu.footer]]
-  url = "#"
-  name = "Link"
+  url = "https://www.geocaching.com/p/?u=Geo-Nord"
+  name = "Profil Geocaching"
   weight = 10
 
 [[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
+  url = "https://photos.google.com/share/AF1QipOZzeW_8JQAYPpkQ-vxduRIGLAX4ZoUVgwjTRgViQuZ7GxLk3Hucwn7LXnkNov9xQ?key=YkE0cUo2YnkzYVZsdjdvTFREX1JZT0l5RkZyZUFB"
+  name = "Photos 2022"
+  weight = 20
 
 [[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
+  url = "https://github.com/Geo-Nord/labcaches_gpx"
+  name = "Labcaches GPX"
   weight = 30
-
-[[menu.copyright_footer]]
-  url = "#"
-  name = ""
-  weight = 10
 
 
 [[menu.footer_social]]
-  weight = 20
+  weight = 10
   name = "facebook"
   pre = "fab fa-facebook"
   url = "https://www.facebook.com/GeoNord22/"
 
 [[menu.footer_social]]
-  weight = 30
+  weight = 20
   name = "youtube"
   pre = "fab fa-youtube"
   url = "https://www.youtube.com/watch?v=BFCIsWKDkbU"

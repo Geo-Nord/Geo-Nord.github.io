@@ -1,11 +1,10 @@
 +++
 fragment = "content"
 #disabled = true
-date = "2022-08-09"
 weight = 30
 #background = "secondary"
 
-title = "Videos"
+#title = "Videos"
 #subtitle = ""
 title_align = "left" # Default is center, can be left, right or center
 +++
