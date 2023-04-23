@@ -6,5 +6,5 @@ background = "primary"
 
 # Branding options
 [asset]
-  text = "GPS Maze Adventures - GeoNord"
+  text = "GPS Maze - GeoNord"
 +++

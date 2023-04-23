@@ -42,7 +42,7 @@ Here are videos from previous GPS Maze exhibitions to give you an idea of whatâ€
 https://coord.info/GC80101
 
 <center>
-<iframe width="500" height="315" src="https://www.youtube.com/embed/auT8y---VDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="45%" height="315" src="https://www.youtube.com/embed/auT8y---VDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="500" height="315" src="https://www.youtube.com/embed/0jGWvtAPwr0?start=182" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="45%" height="315" src="https://www.youtube.com/embed/0jGWvtAPwr0?start=182" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
