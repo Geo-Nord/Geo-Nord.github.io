@@ -1,0 +1,22 @@
+div.dropdown-menu {
+  background-color: #343538
+}
+
+a[href='/fr'] {
+  visibility: hidden;
+}
+
+a[href='/fr']:after {
+  content: '🇫🇷';
+  visibility: visible;
+}
+
+a[href='/en'] {
+  visibility: hidden;
+  content: '🇬🇧';
+}
+
+a[href='/en']:after {
+  content: '🇬🇧';
+  visibility: visible;
+}
