@@ -22,4 +22,4 @@ Entre 2015 et 2022, nous avons organisé plusieurs [**MEGA évents**](history) d
 
 Depuis 2022, nous organisons le [**GPS MAZE ADVENTURES**](gps-maze) en France, une exposition éducative itinérante sur le Geocaching, en collaboration avec Geocaching HQ.
 
-Si vous souhaitez héberger le GPS Maze, [**contactez-nous**](/contact) pour en savoir plus.
+Si vous souhaitez héberger le GPS Maze, [**contactez-nous**](contact) pour en savoir plus.

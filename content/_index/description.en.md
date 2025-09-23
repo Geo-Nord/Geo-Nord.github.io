@@ -22,4 +22,4 @@ Between 2015 and 2022, we organized several Geocaching [**MEGA events**](history
 
 Since 2022, we have been organizing the [**GPS MAZE ADVENTURES**](gps-maze) in France, a traveling educational exhibition on geocaching, in collaboration with Geocaching HQ.
 
-If you would like to host the GPS Maze, [**contact us**](/contact) for more information.
+If you would like to host the GPS Maze, [**contact us**](contact) for more information.
