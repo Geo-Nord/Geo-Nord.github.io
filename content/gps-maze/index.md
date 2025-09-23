@@ -1,3 +1,3 @@
 +++
-title = "GPS Maze Adventures"
+title = "GPS Maze Adventures - France"
 +++

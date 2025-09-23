@@ -16,14 +16,10 @@ post = ""
   image = "logos/geonord.png"
 +++
 
-We have organized from 2015 to 2022, the MEGA events GeoNord in the North of
-France that have attracted thousands of people from more than 28 different
-countries!
+We are a team of passionate geocachers from the North of France.
 
-In 2022, we organized the very first [GPS Maze of
-France](https://coord.info/GC80101), entirely made from scratch by us! Find more
-about us on our [History](/history) page.
+Between 2015 and 2022, we organized several Geocaching [**MEGA events**](history) named *GeoNord* which attracted thousands of participants from more than 28 different countries!
 
-We now focus on developing further the GPS Maze in order to exhibit it at future
-events. If you are organizing such an event and would like to discuss to host
-the GPS Maze, [contact us](/contact).
+Since 2022, we have been organizing the [**GPS MAZE ADVENTURES**](gps-maze) in France, a traveling educational exhibition on geocaching, in collaboration with Geocaching HQ.
+
+If you would like to host the GPS Maze, [**contact us**](/contact) for more information.

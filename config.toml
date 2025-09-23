@@ -15,10 +15,8 @@ DefaultContentLanguage = "fr"
     title = "GPS Maze Adventures - GeoNord"
     weight = 2
 
-# Google Analytics tracking
-googleAnalytics = ""
 
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy"]
 
 [outputs]
   home = ["HTML", "JSON"]
@@ -44,7 +42,7 @@ lastmod = ["lastmod", ":git", "date"]
   # Theme customizations
   # Assets relative to 'static/'
   [params.custom]
-    favicon = "favicon.iso"
+    favicon = "favicon.ico"
     favicon_ico_sizes = "16x16 32x32"
     favicon_png = "favicon.png"
 
@@ -95,35 +93,25 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Contact"
   weight = 40
 
-[[menu.footer]]
-  url = "https://www.geocaching.com/p/?u=Geo-Nord"
-  name = "Profil Geocaching"
-  weight = 10
-
-[[menu.footer]]
-  url = "https://photos.google.com/share/AF1QipOZzeW_8JQAYPpkQ-vxduRIGLAX4ZoUVgwjTRgViQuZ7GxLk3Hucwn7LXnkNov9xQ?key=YkE0cUo2YnkzYVZsdjdvTFREX1JZT0l5RkZyZUFB"
-  name = "Photos 2022"
-  weight = 20
-
-[[menu.footer]]
-  url = "https://github.com/Geo-Nord/labcaches_gpx"
-  name = "Labcaches GPX"
-  weight = 30
-
-
 [[menu.footer_social]]
   weight = 10
-  name = "facebook"
+  name = "Facebook Page"
   pre = "fab fa-facebook"
   url = "https://www.facebook.com/GeoNord22/"
 
 [[menu.footer_social]]
   weight = 20
-  name = "youtube"
-  pre = "fab fa-youtube"
-  url = "https://www.youtube.com/watch?v=BFCIsWKDkbU"
+  name = "Geocaching Profile"
+  pre = "fa fa-user"
+  url = "https://www.geocaching.com/p/?u=Geo-Nord"
 
-# See issue https://github.com/okkur/syna/issues/859 
+[[menu.footer_social]]
+  weight = 30
+  name = "Labcaches GPX"
+  pre = "fa fa-flask"
+  url = "https://github.com/Geo-Nord/labcaches_gpx"
+
+# See issue https://github.com/okkur/syna/issues/859
 [minify]
   disableJS = true
 

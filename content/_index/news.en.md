@@ -1,0 +1,28 @@
++++
+fragment = "content"
+#disabled = false
+weight = 25
+align = "right"
+
+title = "Come join us in 2026 for the 3rd GPS MAZE of France!"
+subtitle= ""
++++
+
+<div style="text-align:center;">
+<a href="https://coord.info/GCBBVCA" target="_blank"><img src="https://img.geocaching.com/3e4cd829-1e14-464c-9370-a0d6330cc6be_l.jpg" title="GPS MAZE FRANCE 2026" alt="GPS MAZE FRANCE 2026" /></a></div>
+
+<br>
+
+We are delighted to announce that the [third GPS Maze in France](https://coord.info/GCBBVCA) will be held on May 15 and 16, 2026, in the heart of Vaucelles Abbey, as part of the Mega [⚔️🛡️🏰 Au blason !🏰🛡️⚔️](https://coord.info/GCB89NQ)
+
+GeoNord, in partnership with Geocaching HQ and the GéHautsCaching team, invites you to discover an ever-more fun and interactive exhibition, packed with new features, and to participate in our new activity, "the Time Maze", for a surprise!
+
+<h2 style="margin-left:0px;margin-right:0px;text-align:center;"><a href="https://coord.info/GCB89NQ" target="_blank" rel="noopener noreferrer"><img alt="MEGA Event" src="/images/logos/cache_icon_type_mega.png" style="height:108px;width:108px;"></a> <a href="https://coord.info/GCBBVCA" target="_blank" rel="noopener noreferrer"><img alt="GPS Maze" src="/images/logos/cache_icon_type_maze.png" style="height:108px;width:108px;"></a></h2>
+
+
+
+
+
+
+
+

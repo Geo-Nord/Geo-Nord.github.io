@@ -1,4 +1,4 @@
 +++
-title = "GPS Maze Adventures - GeoNord"
-description = "GPS Maze Adventures - GeoNord - Association Geocaching Hauts de France"
+title = "GPS Maze Adventures - France - GeoNord"
+description = "GPS Maze Adventures - France - GeoNord - Association Geocaching Hauts de France"
 +++
