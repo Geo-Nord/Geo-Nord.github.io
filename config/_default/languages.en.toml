@@ -1,0 +1,90 @@
+contentDir = 'content/en'
+
+# main/prepend/postpend menus are displayed in nav fragment.
+# Keep an eye out for updates. These will be moved out to make navbar more
+# configurable.
+[[menu.main]]
+  url = "/en/"
+  name = "Home"
+  weight = 10
+
+[[menu.main]]
+  url = "/en/gps-maze"
+  name = "GPS Maze"
+  weight = 20
+
+[[menu.main]]
+  url = "/en/history"
+  name = "History"
+  weight = 30
+
+[[menu.main]]
+  url = "/en/overview"
+  name = "Overview"
+  weight = 1
+  parent = "History"
+
+[[menu.main]]
+  url = "/en/2015"
+  name = "2015"
+  weight = 2
+  parent = "History"
+
+[[menu.main]]
+  url = "/en/2016"
+  name = "2016"
+  weight = 3
+  parent = "History"
+
+[[menu.main]]
+  url = "/en/2017"
+  name = "2017"
+  weight = 4
+  parent = "History"
+
+[[menu.main]]
+  url = "/en/2018"
+  name = "2018"
+  weight = 5
+  parent = "History"
+
+[[menu.main]]
+  url = "/en/2022"
+  name = "2022"
+  weight = 6
+  parent = "History"
+
+[[menu.main]]
+  url = "/en/2025"
+  name = "2025"
+  weight = 7
+  parent = "History"
+
+[[menu.main]]
+  url = "/en/2026"
+  name = "2026"
+  weight = 8
+  parent = "History"
+
+[[menu.main]]
+  url = "/en/contact"
+  name = "Contact"
+  weight = 40
+
+[[menu.footer_social]]
+  weight = 10
+  name = "Facebook Page"
+  pre = "fab fa-facebook"
+  url = "https://www.facebook.com/GeoNord22/"
+
+[[menu.footer_social]]
+  weight = 20
+  name = "Geocaching Profile"
+  pre = "fa fa-user"
+  url = "https://www.geocaching.com/p/?u=Geo-Nord"
+
+[[menu.footer_social]]
+  weight = 30
+  name = "Labcaches GPX"
+  pre = "fa fa-flask"
+  url = "https://github.com/Geo-Nord/labcaches_gpx"
