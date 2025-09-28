@@ -18,7 +18,7 @@ post = ""
 
 We are a team of passionate geocachers from the North of France.
 
-Between 2015 and 2022, we organized several Geocaching [**MEGA events**](history) named *GeoNord* which attracted thousands of participants from more than 28 different countries!
+Between 2015 and 2022, we organized several Geocaching [**MEGA events**](overview) named *GeoNord* which attracted thousands of participants from more than 28 different countries!
 
 Since 2022, we have been organizing the [**GPS MAZE ADVENTURES**](gps-maze) in France, a traveling educational exhibition on geocaching, in collaboration with Geocaching HQ.
 
