@@ -5,7 +5,7 @@ weight = 20
 background = "secondary"
 align = "right"
 
-title = "Welcome on the website of GeoNord!"
+title = "Welcome to the website of GeoNord!"
 subtitle= ""
 
 # Subtitle pre and post item
