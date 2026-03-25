@@ -1,4 +1,4 @@
-contentDir = 'content/en'
+#contentDir = 'content/en'
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
